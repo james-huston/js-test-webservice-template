@@ -4,7 +4,7 @@
   "description": "Test skeleton for creating http unit tests using Mocha, Should, and SuperAgent",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -12,10 +12,6 @@
   },
   "author": "James Huston <james@jameshuston.net>",
   "license": "Apache 2",
-  "bugs": {
-    "url": "https://github.com/james-huston/js-test-webservice-template/issues"
-  },
-  "homepage": "https://github.com/james-huston/js-test-webservice-template",
   "dependencies": {
     "should": "^4.0.1",
     "mocha": "^1.20.1",
